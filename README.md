@@ -1,5 +1,5 @@
 # Draw-Dots
-[Play with me!](https://draw-dots.vercel.com)
+[Play with me!](https://draw-dots.vercel.app/)
 
 ## A Jr React challenge
 
