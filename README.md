@@ -1,4 +1,6 @@
 # Draw-Dots
+[Play with me!](https://draw-dots.vercel.com)
+
 ## A Jr React challenge
 
 <img width="1237" alt="Draw-Dots Screenshot" src="https://user-images.githubusercontent.com/86679848/213559414-96090ecf-1ed7-4543-a5af-c7368e177354.png">
