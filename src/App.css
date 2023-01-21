@@ -1,0 +1,39 @@
+html, body, .App, .clickable {
+  height: 100vh;
+  background-color: rgb(35, 37, 44);
+}
+
+.controls {
+  margin: 0 auto;
+  text-align: center;
+  height: 30px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 25px;
+  background-color: black;
+  color: #aaa;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgb(26, 26, 26);
+}
+
+button:first-of-type {
+  background-color: rgb(35, 58, 73);
+}
+
+button:last-of-type {
+  background-color: rgb(58, 32, 88);
+}
+
+.circle {
+  height: 60px;
+  margin: -30px -30px;
+  width: 60px;
+  border-radius: 30px;
+  background-color: rgb(162, 194, 111);
+  position: fixed;
+  box-shadow: 0 0 15px rgb(26, 26, 26);
+}
